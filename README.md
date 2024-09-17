@@ -1,0 +1,1 @@
+This backend is developed in Rust, using Diesel for type-safe database interactions and PostgreSQL for reliable data storage. It is designed to manage and serve information related to classic cars, offering a robust and efficient solution for handling data with a focus on performance and scalability.
